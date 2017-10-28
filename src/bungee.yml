@@ -1,0 +1,4 @@
+name: Nameban
+main: xyz.derkades.Nameban.Nameban
+version: '@project.version@'
+author: Derkades

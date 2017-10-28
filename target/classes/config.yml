@@ -1,0 +1,9 @@
+ban-message: '&3You have been banned because you are using an inappropriate name. Please change your name and join again.'
+
+# Whether just containing the word is already enough. If set to false the name has to match exactly
+contains: true
+
+case-sensitive: false
+
+banned:
+ - 'banned names here'
